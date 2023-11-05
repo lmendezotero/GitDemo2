@@ -1,1 +1,3 @@
-¡Hola mundo! Me llamo Lorena.
+¡Hola mundo! Me llamo Lorena Méndez.
+
+Estoy aprendiendo git y GitHub.
